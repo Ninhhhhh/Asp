@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/Shop.cshtml";
+}
+
+
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Web.Common;
+@model X.PagedList.IPagedList<SanPham>
+
+@foreach(var item in Model){
+        <div class="col-12 col-sm-6 col-lg-4">
+                                <div class="single-product-area mb-50">
+                                    <!-- Product Image -->
+                                    <div class="product-img">
+                                        <a href="shop-details.html"><img style="width:250px; height:300px;" src="~/Anh/images/@item.AnhDaiDien" alt=""></a>
+                                        <div class="product-meta d-flex">
+                                            <a href="#" class="wishlist-btn"><i class="icon_heart_alt"></i></a>
+                                            <a href="cart.html" class="add-to-cart-btn">Add to cart</a>
+                                            <a href="#" class="compare-btn"><i class="arrow_left-right_alt"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Product Info -->
+                                    <div class="product-info mt-15 text-center">
+                                       <a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-maSp="@item.Id">
+                                            <p>@item.TenSp</p>
+                                        </a>
+                                        <h6>@item.Gia</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        
+
+}
+
+@Html.PagedListPager(Model, page => Url.Action("Shop", new { page = page }), new PagedListRenderOptions() { LiElementClasses = new List<string> { "page-item" }, PageClasses = new List<string> { "page-link" }, UlElementClasses = new List<string> { "pagination" } })
+               

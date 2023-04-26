@@ -1,0 +1,56 @@
+﻿@model List<BaiThucTap.Models.Cart.Cartitem>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Cart/Views/HomeCart/Cart.cshtml";
+}
+
+<div class="cart-table clearfix">
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>Products</th>
+                <th>Image</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>TOTAL</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model){
+            <tr>
+                <td class="cart_product_img">
+                    <a href="#"><img src="~/Anh/images/@item.sanPham.AnhDaiDien" alt="Product"></a>
+                        <h5>@item.sanPham.TenSp</h5>
+                </td>
+                <td class="qty">
+                    <div class="quantity">
+                        <span class="qty-minus" onclick="var effect = document.getElementById('qty'); var qty = effect.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) effect.value--;return false;"><i class="fa fa-minus" aria-hidden="true"></i></span>
+                            <input type="number" class="qty-text" data-id="@item.sanPham.Id" step="1" min="1" max="99" name="quantity" value="@item.SoLuong">
+                        <span class="qty-plus" onclick="var effect = document.getElementById('qty'); var qty = effect.value; if( !isNaN( qty )) effect.value++;return false;"><i class="fa fa-plus" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+                    <td class="price"><span>@item.sanPham.Gia</span></td>
+                <td class="total_price"><span></span></td>
+                <td class="action"><a href="#"><i class="icon_close"></i></a></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="shopping-total">
+    <ul>
+
+        <li class="shopping-total-price">
+            <em></em>
+            <strong class="price"><span id="total-price"></span></strong>
+        </li>
+    </ul>
+</div>
+<button class="btn btn-primary" onclick="calculateTotal()" type="submit">Tính tổng tiền <i class="fa fa-check"></i></button>
+<form method="post" action="@Url.Action("Payment", "Cart")">
+    <button class="btn btn-checkout" onclick="calculateTotal()" type="submit">checkout <i class="fa fa-check"></i></button>
+</form>
+

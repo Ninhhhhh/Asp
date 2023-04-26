@@ -1,0 +1,71 @@
+﻿@using BaiThucTap.Models;
+@model IEnumerable<LoaiSp>
+
+<div class="shop-widget catagory mb-50">
+    <h4 class="widget-title">Categories</h4>
+    <div class="widget-desc">
+        <!-- Single Checkbox -->
+@foreach(var item in Model){
+            var getUrl = "https://localhost:7245/api/caycanh/" + item.Idloai;
+                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
+                <input type="checkbox" class="custom-control-input" id="@item.Idloai" name="chkLoaiSP">
+                <label class="custom-control-label" for="@item.Idloai">
+                    <a style="cursor:pointer" onclick="showSanPhamByCategory('@getUrl')">@item.TenLoai</a><span class="text-muted"></span>
+                </label>
+                </div>
+                    }
+        <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
+            <input type="checkbox" class="custom-control-input" id="all" name="chkLoaiSP">
+            <label class="custom-control-label" for="all">
+                <a style="cursor:pointer" asp-action="Shop">ALL</a><span class="text-muted"></span>
+            </label>
+        </div>
+        </div>        
+        </div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][name="chkLoaiSP"]').on('change', function () {
+            $('input[type="checkbox"][name="chkLoaiSP"]').not(this).prop('checked', false);
+        });
+    });
+</script>
+
+
+<script>
+    function showSanPhamByCategory(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            error: function (response) {
+                alert(response.responseText);
+            },
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += `  <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="single-product-area mb-50">
+                                        <!-- Product Image -->
+                                        <div class="product-img">
+                                            <a><img style="width:250px; height:300px;" src="../Anh/images/${val.anhDaiDien}" alt=""></a>
+                                            <div class="product-meta d-flex">
+                                                <a href="#" class="wishlist-btn"><i class="icon_heart_alt"></i></a>
+                                                    <a action="@Url.Action("AddiItem", "Cart")" class="add-to-cart-btn">Add to cart</a>
+                                                <a href="#" class="compare-btn"><i class="arrow_left-right_alt"></i></a>
+                                            </div>
+                                        </div>
+                                        <!-- Product Info -->
+                                        <div class="product-info mt-15 text-center">
+                                                            <a style="cursor:pointer" href="https://localhost:7245/Home/ChiTietSanPham?maSp=${val.id}">
+                                                <p>${val.tenSp}</p>
+                                            </a>
+                                            <h6>${val.gia}</h6>
+                                        </div>
+                                    </div>
+                                </div>`;
+                });
+                $('#displaySanPham').html(str);
+            }
+        });
+    }
+</script>

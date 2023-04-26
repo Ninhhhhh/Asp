@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <!-- Title -->
+    <title>Alazea - Gardening &amp; Landscaping HTML Template</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="~/Layout/img/core-img/favicon.ico">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="~/Layout/style.css">
+
+</head>
+
+<body>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader-circle"></div>
+        <div class="preloader-img">
+            <img src="~/Layout/img/core-img/leaf.png" alt="">
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    @await Html.PartialAsync("Header")
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <div class="breadcrumb-area">
+        <!-- Top Breadcrumb Area -->
+        <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(../Layout/img/bg-img/24.jpg);">
+            <h2>Shop</h2>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Shop</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Shop Area Start ##### -->
+    <section class="shop-page section-padding-0-100">
+        <div class="container">
+            <div class="row">
+                <!-- Shop Sorting Data -->
+                <div class="col-12">
+                    <div class="shop-sorting-data d-flex flex-wrap align-items-center justify-content-between">
+                        <!-- Shop Page Count -->
+                     @*   <div class="shop-page-count">
+                            <p>Showing 1–9 of 72 results</p>
+                        </div>
+                        <!-- Search by Terms -->
+                        <div class="search_by_terms">
+                            <form action="#" method="post" class="form-inline">
+                                <select class="custom-select widget-title">
+                                  <option selected>Short by Popularity</option>
+                                  <option value="1">Short by Newest</option>
+                                  <option value="2">Short by Sales</option>
+                                  <option value="3">Short by Ratings</option>
+                                </select>
+                                <select class="custom-select widget-title">
+                                  <option selected>Show: 9</option>
+                                  <option value="1">12</option>
+                                  <option value="2">18</option>
+                                  <option value="3">24</option>
+                                </select>
+                            </form>
+                        </div>*@
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <!-- Sidebar Area -->
+                <div class="col-12 col-md-4 col-lg-3">
+                    <div class="shop-sidebar-area">
+
+                        <!-- Shop Widget -->
+                        
+
+                        <!-- Shop Widget -->
+                        
+
+                        <!-- Shop Widget -->
+                        @await Component.InvokeAsync("LoaiSpMenu")
+
+                        <!-- Shop Widget -->
+                     @await Html.PartialAsync("BestSeller")
+                    </div>
+                </div>
+
+                <!-- All Products Area -->
+                <div class="col-12 col-md-8 col-lg-9">
+                    <div class="shop-products-area">
+                        <div id="displaySanPham" class="row">
+                         @RenderBody()
+                    
+
+                            <!-- Single Product Area -->
+                        
+                        <!-- Pagination -->
+                        @*<nav aria-label="Page navigation">
+                            <ul class="pagination">
+                                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-right"></i></a></li>
+                            </ul>
+                        </nav>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Shop Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    @await Html.PartialAsync("Footer")
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Files ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="~/Layout/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="~/Layout/js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="~/Layout/js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="~/Layout/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="~/Layout/js/active.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<BaiThucTap.Models.NhanVien>
+
+@{
+    ViewData["Title"] = "DanhSachNhanVien";
+    Layout = "~/Areas/ADMIN/Views/Shared/LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>DanhSachNhanVien</h1>
+<p class="bg-warning text-white"> @TempData["Message"]
+<p>
+    <button type="button" class="btn btn-gradient-success btn-fw"><a style="text-decoration: none;" asp-action="ThemNhanVien">Create New</a></button>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Ảnh Đại Diện
+            </th>
+            <th>
+               Tên Nhân Viên
+            </th>
+            <th>
+               Ngày Sinh
+            </th>
+            <th>
+               Sô Điện Thoại
+            </th>
+            <th>
+                Giới Tính
+            </th>
+            <th>
+                Chức Vụ
+            </th>
+         
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                 <img style="width:70px; height:70px;" src="~/Anh/images/@Html.DisplayFor(modelItem => item.AnhDaiDien)">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgaySinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoDt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChucVu)
+            </td>
+           
+            <td>
+                    <button type="button" class="btn btn-gradient-primary btn-rounded btn-fw"> <a style="text-decoration: none;" asp-controller="HomeAdmin" asp-action="SuaNhanVien" asp-route-maNhanVien="@item.IdnhanVien">Edit</a> </button>
+                    <button type="button" class="btn btn-gradient-danger btn-rounded btn-fw"> <a style="text-decoration: none;" asp-action="XoaNhanVien" asp-route-maNhanVien="@item.IdnhanVien">Delete</a></button>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

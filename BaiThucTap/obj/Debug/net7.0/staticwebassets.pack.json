@@ -1,0 +1,1621 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BaiThucTap.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiThucTap.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\100.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\36.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\37.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\38.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\39.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\40.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\41.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\42.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\43.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\44.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\45.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\46.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\47.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\48.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\49.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\50.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\51.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\52.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\53.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\54.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\55.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\56.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\57.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\58.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\59.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\60.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\61.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\62.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\63.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\64.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\65.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\66.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\67.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\68.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\69.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\70.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\71.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\72.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\73.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\74.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\74.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\75.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\76.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\76.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\77.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\77.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\78.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\78.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\79.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\80.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\81.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\82.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\83.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\84.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\85.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\86.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\86.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\87.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\88.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\88.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\89.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\90.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\91.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\92.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\92.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\93.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\94.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\95.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\96.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\97.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\97.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\98.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\98.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\99.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\NV01.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\NV01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\NV02.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\NV02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Anh\\images\\NV03.jpg",
+      "PackagePath": "staticwebassets\\Anh\\images\\NV03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\classy-nav.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\classy-nav.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\elegant-icon.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\elegant-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\HhyaU5sn9vOmLzlnC_W6EQ.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\HhyaU5sn9vOmLzlnC_W6EQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\HhyaU5sn9vOmLzloC_U.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\HhyaU5sn9vOmLzloC_U.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\classy.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\classy.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\classy.svg",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\classy.svg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\classy.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\classy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\classy.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\classy.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\fontscss.css",
+      "PackagePath": "staticwebassets\\Layout\\fontscss.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\10.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\11.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\12.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\123.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\13.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\14.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\15.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\16.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\17.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\18.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\19.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\20.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\21.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\22.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\23.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\24.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\25.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\26.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\27.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\28.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\29.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\30.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\31.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\32.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\33.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\34.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\35.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\36.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\37.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\38.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\39.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\40.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\41.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\42.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\43.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\44.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\45.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\456.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\456.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\46.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\47.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\48.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\49.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\789.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\789.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\cool-facts.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\cool-facts.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\subscribe.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\subscribe.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\team1.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\team2.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\team3.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\team3.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\bg-img\\team4.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg-img\\team4.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\b1.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\b1.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\b2.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\b2.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\b3.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\b3.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\b4.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\b4.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\cf1.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\cf1.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\cf2.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\cf2.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\cf3.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\cf3.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\cf4.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\cf4.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\leaf.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\leaf.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\logo.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\pot.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\pot.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\s1.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\s2.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\img\\core-img\\s3.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\core-img\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\js\\active.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\active.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\js\\jquery\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\js\\plugins\\plugins.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\plugins\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\scss\\_mixin.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\scss\\_theme_color.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_theme_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\Layout\\style.css.map",
+      "PackagePath": "staticwebassets\\Layout\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namle\\source\\repos\\BaiThucTap\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BaiThucTap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BaiThucTap.props",
+      "PackagePath": "build\\BaiThucTap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiThucTap.props",
+      "PackagePath": "buildMultiTargeting\\BaiThucTap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BaiThucTap.props",
+      "PackagePath": "buildTransitive\\BaiThucTap.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

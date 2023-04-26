@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/Index.cshtml";
+}
+@using BaiThucTap.Models;
+@model IEnumerable<SanPham>
+
+<section class="new-arrivals-products-area bg-gray section-padding-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <!-- Section Heading -->
+                <div class="section-heading text-center">
+                    <h2>NEW ARRIVALS</h2>
+                    <p>We have the latest products, it must be exciting for you</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            @foreach(var item in Model.Take(4)){
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-product-area mb-50 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Product Image -->
+                        <div class="product-img">
+                            <a href="shop-details.html"><img style="width:260px; height:300px;" src="../Anh/images/@item.AnhDaiDien" alt=""></a>
+                            <!-- Product Tag -->
+                            <div class="product-tag">
+                                <a href="#">Hot</a>
+                            </div>
+                            <div class="product-meta d-flex">
+                                <a href="#" class="wishlist-btn"><i class="icon_heart_alt"></i></a>
+                                <form method="post" action="@Url.Action("AddiItem", "Cart")">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <input type="hidden" name="quantity" value="1" />
+                                    <button type="submit" class="btn btn-default add2cart">Add to cart</button>
+                                </form>
+                       
+                                <a href="#" class="compare-btn"><i class="arrow_left-right_alt"></i></a>
+                            </div>
+                        </div>
+                        <!-- Product Info -->
+                        <div class="product-info mt-15 text-center">
+                            <a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-maSp="@item.Id">
+                                <p>@item.TenSp</p>
+                            </a>
+                            <h6>@item.Gia</h6>
+                        </div>
+                    </div>
+                </div>
+            }
+            <!-- Single Product Area -->
+         
+
+            <div class="col-12 text-center">
+                <a asp-action="Shop" class="btn alazea-btn">View All</a>
+            </div>
+
+        </div>
+    </div>
+</section>
